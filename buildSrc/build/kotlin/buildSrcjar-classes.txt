@@ -1,0 +1,1 @@
+/Users/throdo/Programmation/Workspaces/Perso/Android/My-First-Application/buildSrc/build/classes/kotlin/main/mypackage/MyService.class
